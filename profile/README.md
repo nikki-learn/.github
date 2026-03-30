@@ -43,7 +43,6 @@ We want to give a heartfelt thank you to the creators of TutorialKit
 for pushing the boundaries of what’s possible in the browser and making
 developer learning more powerful and accessible.
 
-Their work helps make experiences like these possible.
 ---
 
 ### Ready to dive in?
