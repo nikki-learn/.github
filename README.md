@@ -1,4 +1,4 @@
-# 🎉 Welcome to Nikki.build Interactive Learning
+# 🎉 Welcome to nikki.build Interactive Learning
 
 **Hey there, fellow builder!** 👋  
 
@@ -46,7 +46,7 @@ Just scroll through the folders, open any tutorial, and start learning the fun w
 
 **Let’s build something awesome together!**  
 
-— The Nikki.build Team ❤️
+— The nikki.build Team ❤️
 
 ---
 
