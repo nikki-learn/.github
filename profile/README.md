@@ -33,11 +33,17 @@ We genuinely encourage you to:
 Every contribution — big or small — makes learning better for everyone.  
 Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file if you’d like to join the fun!
 
-### A Huge Thank You 🙏
-We want to give a massive, heartfelt shoutout to **[TutorialKit](https://tutorialkit.dev)**.
 
-Thank you for your excellent work and for constantly pushing the boundaries of what’s possible in the browser. You’ve made the web a more powerful and developer-friendly place — and that spirit inspires everything we build here.
+A Huge Thank You 🙏
 
+These tutorials use TutorialKit, an open-source interactive tutorial
+framework created by the StackBlitz team.
+
+We want to give a heartfelt thank you to the creators of TutorialKit
+for pushing the boundaries of what’s possible in the browser and making
+developer learning more powerful and accessible.
+
+Their work helps make experiences like these possible.
 ---
 
 ### Ready to dive in?
